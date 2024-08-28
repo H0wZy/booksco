@@ -4,7 +4,7 @@ The "Books&Co" bookstore operates with a relational database that supports the e
 Access the documents in the > docs folder
 
 # Database modeling:
-Models implemented in the database.
+implemented models in the database:
 
 ### Conceptual model:
 ![](img/1.png)
