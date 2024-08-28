@@ -1,23 +1,21 @@
-# Livraria Books&Co
-A livraria "Books&Co" opera com um banco de dados relacional que suporta as operações essenciais de um sistema de gerenciamento, incluindo controle de estoque, administração de vendas, gestão de clientes e fornecedores.
+# Books&Co Bookstore
+The "Books&Co" bookstore operates with a relational database that supports the essential operations of a management system, including inventory control, sales administration, customer and supplier management.
 
-Acesse os documentos na pasta > docs
+Access the documents in the > docs folder
 
-# Modelagem do banco de dados:
-Modelos implementados no banco de dados.
+# Database modeling:
+Models implemented in the database.
 
-### Modelo conceitual:
+### Conceptual model:
 ![](img/1.png)
 
-### Modelo lógico:
+### Logical model:
 ![](img/2.png)
 
-### Código VSCode:
+### VSCode code:
 ![](img/3.png)
 
-### Código MySQL Workbench:
+### MySQL Workbench code:
 ![](img/4.png)
 
 # by: Marcos Junior "H0wZy" Bueno Selzler.
-
-
